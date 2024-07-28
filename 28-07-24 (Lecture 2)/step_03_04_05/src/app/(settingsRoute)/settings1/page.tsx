@@ -1,13 +1,11 @@
 import React from 'react'
 
-function analytics() {
+function settings1() {
   return (
     <div>
-      analytics
+      Settings1
     </div>
   )
 }
 
-export default analytics
-
-
+export default settings1

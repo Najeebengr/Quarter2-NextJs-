@@ -1,13 +1,11 @@
 import React from 'react'
 
-function analytics() {
+function blog() {
   return (
     <div>
-      analytics
+      Blogs
     </div>
   )
 }
 
-export default analytics
-
-
+export default blog

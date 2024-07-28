@@ -2,7 +2,7 @@
 ### Fast
 ### Storage Efficient
 ### Use Cache (Dont redownload Packages)
-### More preferrable for yarn/npm
+### More preferrable from yarn/npm
 
 ## When to use Client Components
 ### Web Events

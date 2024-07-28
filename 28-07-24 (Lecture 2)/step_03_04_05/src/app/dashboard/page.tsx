@@ -1,13 +1,11 @@
 import React from 'react'
 
-function analytics() {
+function Dashboard() {
   return (
     <div>
-      analytics
+      Dashboard
     </div>
   )
 }
 
-export default analytics
-
-
+export default Dashboard

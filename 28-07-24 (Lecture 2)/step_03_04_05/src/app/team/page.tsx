@@ -1,13 +1,11 @@
 import React from 'react'
 
-function analytics() {
+function teamPage() {
   return (
     <div>
-      analytics
+      Team Page
     </div>
   )
 }
 
-export default analytics
-
-
+export default teamPage
